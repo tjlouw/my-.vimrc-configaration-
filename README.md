@@ -1,2 +1,2 @@
-# my-.vimrc-configaration-
-personal nonfigs to my vim .vimrc
+# my-.vimrc-configuration-
+personal config to my vim .vimrc
